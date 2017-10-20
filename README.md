@@ -1,1 +1,3 @@
-# vue-tutorial-project-1
+# Learning Vue JS
+
+Learning Vue JS project from Udemy
